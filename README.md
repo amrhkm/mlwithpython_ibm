@@ -1,7 +1,7 @@
 # mlwithpython_ibm
-#This repo is for my final assignment for chapter machine learning with python
+This repo is for my final assignment for chapter machine learning with python
 
-#the task:
+The task:
 
 Now that you have been equipped with the skills to use different Machine Learning algorithms, over the course of five weeks, you will have the opportunity to practice and apply it on a dataset. In this project, you will complete a notebook where you will build a classifier to predict whether a loan case will be paid off or not. 
 
